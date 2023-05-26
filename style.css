@@ -15,7 +15,8 @@
   background-color: royalblue;
   color: white;
   height: 200px;
-  margin: 10px;
+  line-height: 200px;
+  text-align: center;
 }
 .smallbox-1 {
   grid-area: smallbox1;
